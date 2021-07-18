@@ -1,0 +1,25 @@
+{
+  "name": "content-javascript-actions-app",
+  "version": "1.0.0",
+  "description": "This action prints \"Hello World\" or \"Hello\" + the name of a person to greet to the log. To learn how this action was built, see \"[Creating a JavaScript action](https://help.github.com/en/articles/creating-a-javascript-action)\" in the GitHub Help documentation.",
+  "main": "index.js",
+  "dependencies": {
+    "@actions/core": "^1.4.0",
+    "@actions/github": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelford85/content-javascript-actions-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelford85/content-javascript-actions-app/issues"
+  },
+  "homepage": "https://github.com/michaelford85/content-javascript-actions-app#readme"
+}
